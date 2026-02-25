@@ -43,6 +43,9 @@
                     Brands
                 </a>
 
+                <a class="collapse-item" href="<?= site_url('admin/cooler_support') ?>">
+                    Cooler Socket Support
+                </a>
                 <a class="collapse-item" href="<?= site_url('admin/products') ?>">
                     Products
                 </a>
@@ -112,7 +115,7 @@
     </li>
 
     <li class="nav-item">
-        <a class="nav-link" href="<?= site_url('admin/builder') ?>">
+        <a class="nav-link" href="<?= site_url('admin/builder/create') ?>">
             <i class="fas fa-cogs"></i>
             <span>PC Builds</span>
         </a>
