@@ -196,7 +196,7 @@
                     </div>
 
                     <div class="col-md-4 form-group d-none" id="field_mb_fan_header">
-                        <label>Motherboard Fan Header</label>
+                        <label>Motherboard Fan Header (PWN)</label>
                         <input type="number" name="mb_fan_header" class="form-control">
                     </div>
                     <div class="col-md-4 form-group d-none" id="field_rgb_header">
